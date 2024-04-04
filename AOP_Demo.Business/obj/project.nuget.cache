@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "k2tD3M9w+eTb037kxGjvI8iMmXie1D67UzYrwlQSU0zTIRzH0um9Do1KSnGLwTn/y2q0WAuOVQVX6Ny0CAsbvw==",
+  "dgSpecHash": "CzpsOE0/sv3nu/GLA97HliCwl8mq9/GM2R3kZEBDSQ7vghMOK2pDLE7Vhr28FK1+RcSSRONyM7BZfKSVp6ih/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\firat\\source\\repos\\AOP_Demo\\AOP_Demo.Business\\AOP_Demo.Business.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\firat\\.nuget\\packages\\postsharp\\4.2.17\\postsharp.4.2.17.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'PostSharp 4.2.17' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "PostSharp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

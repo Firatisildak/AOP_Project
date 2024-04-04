@@ -1,0 +1,16 @@
+C:\Users\firat\source\repos\AOP_Demo\AOP_Demo.Entities\bin\Debug\net8.0\AOP_Demo.Entities.deps.json
+C:\Users\firat\source\repos\AOP_Demo\AOP_Demo.Entities\bin\Debug\net8.0\AOP_Demo.Entities.dll
+C:\Users\firat\source\repos\AOP_Demo\AOP_Demo.Entities\bin\Debug\net8.0\AOP_Demo.Entities.pdb
+C:\Users\firat\source\repos\AOP_Demo\AOP_Demo.Entities\bin\Debug\net8.0\Core.dll
+C:\Users\firat\source\repos\AOP_Demo\AOP_Demo.Entities\bin\Debug\net8.0\Core.pdb
+C:\Users\firat\source\repos\AOP_Demo\AOP_Demo.Entities\obj\Debug\net8.0\AOP_Demo.Entities.csproj.AssemblyReference.cache
+C:\Users\firat\source\repos\AOP_Demo\AOP_Demo.Entities\obj\Debug\net8.0\AOP_Demo.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firat\source\repos\AOP_Demo\AOP_Demo.Entities\obj\Debug\net8.0\AOP_Demo.Entities.AssemblyInfoInputs.cache
+C:\Users\firat\source\repos\AOP_Demo\AOP_Demo.Entities\obj\Debug\net8.0\AOP_Demo.Entities.AssemblyInfo.cs
+C:\Users\firat\source\repos\AOP_Demo\AOP_Demo.Entities\obj\Debug\net8.0\AOP_Demo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\AOP_Demo\AOP_Demo.Entities\obj\Debug\net8.0\AOP_Demo.Entities.sourcelink.json
+C:\Users\firat\source\repos\AOP_Demo\AOP_Demo.Entities\obj\Debug\net8.0\AOP_Demo.Entities.csproj.CopyComplete
+C:\Users\firat\source\repos\AOP_Demo\AOP_Demo.Entities\obj\Debug\net8.0\AOP_Demo.Entities.dll
+C:\Users\firat\source\repos\AOP_Demo\AOP_Demo.Entities\obj\Debug\net8.0\refint\AOP_Demo.Entities.dll
+C:\Users\firat\source\repos\AOP_Demo\AOP_Demo.Entities\obj\Debug\net8.0\AOP_Demo.Entities.pdb
+C:\Users\firat\source\repos\AOP_Demo\AOP_Demo.Entities\obj\Debug\net8.0\ref\AOP_Demo.Entities.dll

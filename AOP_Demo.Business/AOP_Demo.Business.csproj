@@ -6,4 +6,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="PostSharp" Version="4.2.17" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AOP_Demo.DataAcess\AOP_Demo.DataAccess.csproj" />
+    <ProjectReference Include="..\AOP_Demo.Entities\AOP_Demo.Entities.csproj" />
+  </ItemGroup>
+
 </Project>

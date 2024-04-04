@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AOP_Demo.Business\AOP_Demo.Business.csproj" />
+  </ItemGroup>
+
 </Project>
